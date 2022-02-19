@@ -1,6 +1,6 @@
 # 👋 Hi
 - 🤙 I’m @joaogelado
-- 👀 I’m interested in *✨ Nothing ✨* (for now...)
+- 👀 I’m interested in jest
 - 🌱 I’m currently learning React and Next.js
 - 😁 I already know something about JavaScript, HTML and CSS
 
