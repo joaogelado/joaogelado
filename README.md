@@ -1,8 +1,8 @@
 # 👋 Hi
 - 🤙 I’m @joaogelado
-- 👀 I’m interested in jest
-- 🌱 I’m currently learning React and Next.js
-- 😁 I already know something about JavaScript, HTML and CSS
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Jest & Nest.js
+- 😁 I already know something about JavaScript, HTML, CSS, React and Next.js
 
 
 <!---
